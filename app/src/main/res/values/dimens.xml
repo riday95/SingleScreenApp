@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_layout_margin1">18dp</dimen>
+    <dimen name="main_layout_margin2">24dp</dimen>
+
+
+    <!-- Normal -->
+    <dimen name="pic_height_normal">250dp</dimen>
+    <dimen name="text_size1_normal">18sp</dimen>
+    <dimen name="text_size2_normal">14sp</dimen>
+    <dimen name="text_margin_normal">8dp</dimen>
+    <!-- Small -->
+    <dimen name="pic_height_small">100dp</dimen>
+    <dimen name="text_size1_small">8sp</dimen>
+    <dimen name="text_size2_small">8sp</dimen>
+    <dimen name="text_margin_small">4dp</dimen>
+    <!-- Large -->
+    <dimen name="pic_height_large">380dp</dimen>
+    <dimen name="text_size1_large">28sp</dimen>
+    <dimen name="text_size2_large">24sp</dimen>
+    <dimen name="text_margin_large">8dp</dimen>
+    <!-- Xlarge -->
+    <dimen name="pic_height_xlarge">520dp</dimen>
+    <dimen name="text_size1_xlarge">36sp</dimen>
+    <dimen name="text_size2_xlarge">28sp</dimen>
+    <dimen name="text_margin_xlarge">16dp</dimen>
+
+</resources>
